@@ -1,6 +1,8 @@
 
 **📘 Amino Acid Structure Learning Game**
 ---
+![opening_background](https://github.com/user-attachments/assets/2b37f2ec-3673-4cb0-91a9-10bdce6a49c3)
+
 A fun, interactive Python/Tkinter game designed to help students learn and identify amino acids by their structural formulas.
 The game displays amino acid images and prompts the user to guess their names, keeping track of the score.
 
